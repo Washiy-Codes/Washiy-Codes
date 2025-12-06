@@ -19,7 +19,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&commits_year=2020)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
