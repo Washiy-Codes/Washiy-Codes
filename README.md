@@ -19,7 +19,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 🌐 Socials
