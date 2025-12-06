@@ -19,7 +19,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&commits_year=2020&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 ## 🌐 Socials
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
