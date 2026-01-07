@@ -23,10 +23,6 @@
 ## 📊 GitHub Stats
 [![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=ffffff&icon_color=ff79c6&bg_color=0d1117)](https://github.com/Washiy-Codes)
 
-
-
-
-
 ## 🌐 Socials
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
