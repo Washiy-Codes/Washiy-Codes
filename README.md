@@ -21,6 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
+[![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Washiy-Codes)
+
 
 ## 🌐 Socials
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
