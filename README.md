@@ -24,6 +24,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Washiy-Codes&layout=compact&theme=radical&hide_border=true)
+
+
 ## 🌐 Socials
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
