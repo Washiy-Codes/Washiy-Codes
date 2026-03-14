@@ -4,6 +4,7 @@
 🌱 I’m currently advancing my frontend development skills — focusing on React, TypeScript, and modern [state management tools](https://www.youtube.com/watch?v=M9O5AjEFzKw&t=15199s)<br/>
 🔭 Working on improving my React projects and building small, interactive web apps & growing my GitHub every day 🚀.<br/>
 👯 Eager to collaborate on open-source and software projects that challenge me to grow as an engineer.<br/>
+👯 Committed to mastering new programming languages and evolving as a software developer.
 ⚡ Fun fact: I can spend hours tweaking layouts just to get that pixel-perfect look 😅<br/>
 
 ## 💻 Tech Stack
