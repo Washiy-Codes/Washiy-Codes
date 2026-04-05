@@ -24,7 +24,6 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ## 📊 GitHub Stats
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 
 ## 🌐 Socials
