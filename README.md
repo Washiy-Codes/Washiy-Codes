@@ -23,7 +23,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ## 📊 GitHub Stats
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Washiy-Codes&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ## 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
