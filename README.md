@@ -24,6 +24,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Washiy-Codes&theme=radical&date_format=j%20M%5B%20Y%5D)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true)
 
 ## 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
