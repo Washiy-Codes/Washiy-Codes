@@ -27,6 +27,7 @@
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ## 📊 GitHub Stats
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
