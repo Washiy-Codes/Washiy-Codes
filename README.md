@@ -29,8 +29,10 @@
 ## 📊 GitHub Stats
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎥 Project / Learning Video
+## 🎥 React Learning Video
+[![Watch Video](https://img.youtube.com/vi/M9O5AjEFzKw/0.jpg)](https://www.youtube.com/watch?v=M9O5AjEFzKw)
 
+## 🎥 Project / Learning Video
 [![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=QIDkK0FbXDc)
 
 ## 🌐 Socials
