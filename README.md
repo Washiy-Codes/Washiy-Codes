@@ -31,9 +31,9 @@
 
 ## 🎥 React Learning Video
 [![Watch Video](https://img.youtube.com/vi/M9O5AjEFzKw/0.jpg)](https://www.youtube.com/watch?v=M9O5AjEFzKw)
+[![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=QIDkK0FbXDc)
 
 ## 🎥 Project / Learning Video
-[![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=QIDkK0FbXDc)
 
 ## 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
