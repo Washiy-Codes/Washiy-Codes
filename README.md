@@ -1,13 +1,13 @@
 ## Hi, I'm Joseph!
 
-💻 Frontend developer on a journey to learn and build in tech.<br/>
-🌱 I’m currently advancing my frontend development skills — focusing on React, TypeScript, and modern [state management tools](https://www.youtube.com/watch?v=M9O5AjEFzKw&t=15199s)<br/>
-🔭 Working on improving my React projects and building small, interactive web apps & growing my GitHub every day 🚀.<br/>
-👯 Eager to collaborate on open-source and software projects that challenge me to grow as an engineer.<br/>
-👯 Committed to mastering new programming languages and evolving as a web developer.<br>
-⚡ Fun fact: I can spend hours tweaking layouts just to get that pixel-perfect look 😅<br/>
+ Frontend developer on a journey to learn and build in tech.<br/>
+ I’m currently advancing my frontend development skills — focusing on React, TypeScript, and modern [state management tools](https://www.youtube.com/watch?v=M9O5AjEFzKw&t=15199s)<br/>
+ Working on improving my React projects and building small, interactive web apps & growing my GitHub every day 🚀.<br/>
+ Eager to collaborate on open-source and software projects that challenge me to grow as an engineer.<br/>
+ Committed to mastering new programming languages and evolving as a web developer.<br>
+ Fun fact: I can spend hours tweaking layouts just to get that pixel-perfect look 😅<br/>
 
-## 💻 Tech Stack
+##  Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,17 +24,17 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🎥 React Learning Video
+## React Learning Video
 [![Watch Video](https://img.youtube.com/vi/M9O5AjEFzKw/0.jpg)](https://www.youtube.com/watch?v=M9O5AjEFzKw)
 
-## 🎥 Project / Learning Video
+##  Project / Learning Video
 [![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=QIDkK0FbXDc)
 
-## 🌐 Socials
+##  Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
