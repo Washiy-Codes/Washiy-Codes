@@ -42,3 +42,9 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+
+DATABASE_URL="postgresql://postgres.jafigxwylluvmubqwell:NDc4rY93xGmGDzIF@aws-0-eu-west-1.pooler.supabase.com:5432/postgres?pgbouncer=true"
+
+# DIRECT_URL = "postgresql://postgres:NDc4rY93xGmGDzIF@db.jafigxwylluvmubqwell.supabase.co:5432/postgres"
