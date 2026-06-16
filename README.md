@@ -45,6 +45,3 @@
 
 
 
-DATABASE_URL="postgresql://postgres.jafigxwylluvmubqwell:NDc4rY93xGmGDzIF@aws-0-eu-west-1.pooler.supabase.com:5432/postgres?pgbouncer=true"
-
-# DIRECT_URL = "postgresql://postgres:NDc4rY93xGmGDzIF@db.jafigxwylluvmubqwell.supabase.co:5432/postgres"
