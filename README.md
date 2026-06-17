@@ -28,15 +28,19 @@
 
 
 ## GitHub Stats
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Washiy-Codes&theme=radical)
+
 
 
 ## React Learning Video
 [![Watch Video](https://img.youtube.com/vi/M9O5AjEFzKw/0.jpg)](https://www.youtube.com/watch?v=M9O5AjEFzKw)
 
-##  Project / Learning Video
+## Project / Learning Video
 [![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=QIDkK0FbXDc)
+
+## JavaScript
+[![Watch Video](https://img.youtube.com/vi/QIDkK0FbXDc/0.jpg)](https://www.youtube.com/watch?v=wBtPGnVnA9g)
 
 ##  Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
