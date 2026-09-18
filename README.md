@@ -29,7 +29,7 @@
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Washiy-Codes&theme=radical)
-
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Washiy-Codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ##  Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
