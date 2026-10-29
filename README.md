@@ -1,6 +1,6 @@
 ## Hi, I'm Joseph!
 
- Frontend developer on a journey to learn and build in tech.<br/>
+ fullstack web developer on a journey to learn and build in tech.<br/>
  I’m currently advancing my frontend development skills — focusing on React, TypeScript, and modern [state management tools](https://www.youtube.com/watch?v=M9O5AjEFzKw&t=15199s)<br/>
  Working on improving my React projects and building small, interactive web apps & growing my GitHub every day .<br/>
  Eager to collaborate on open-source and software projects that challenge me to grow as an engineer.<br/>
